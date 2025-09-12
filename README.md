@@ -1,8 +1,6 @@
 # DBDP
 
-**D**eep **B**ackward **D**ynamic **P**rogramming (DBDP) is an open-source Python library currently under active development designed for solving high-dimensional nonlinear partial differential equations (PDEs).
-
-The project implements deep learning methods described in the [research paper](docs/dbdp-research-paper.pdf) by Côme Huré, Huyên Pham, and Xavier Warin, leveraging the classical backward stochastic differential equation (BSDE) representation to efficiently approximate PDE solutions.
+The project implements deep learning methods described in the [research paper](docs/dbdp-research-paper.pdf) by Côme Huré, Huyên Pham, and Xavier Warin, leveraging the classical backward stochastic differential equation (BSDE) representation to efficiently approximate high-dimensional nonlinear PDE solutions.
 
 ## Installation
 
