@@ -1,4 +1,6 @@
-# DBDP
+# Deep backward schemes for high-dimensional nonlinear PDEs
+
+""" All result are based on the article on the repo """
 
 The project implements deep learning methods described in the [research paper](docs/dbdp-research-paper.pdf) by Côme Huré, Huyên Pham, and Xavier Warin, leveraging the classical backward stochastic differential equation (BSDE) representation to efficiently approximate high-dimensional nonlinear PDE solutions.
 
