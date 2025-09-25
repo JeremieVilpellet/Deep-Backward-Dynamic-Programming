@@ -4,16 +4,6 @@
 
 The project implements deep learning methods described in the [research paper](docs/dbdp-research-paper.pdf) by Côme Huré, Huyên Pham, and Xavier Warin, leveraging the classical backward stochastic differential equation (BSDE) representation to efficiently approximate high-dimensional nonlinear PDE solutions.
 
-## Installation
-
-Clone the repository and install the required dependencies:
-
-```bash
-git clone https://github.com/RyanTmi/dbdp
-cd dbdp
-pip install -r requirements.txt
-```
-
 ## Structure
 
 [**docs/**](docs/) includes the original research paper.
